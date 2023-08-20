@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH bastion platform Blog</title>
+        <link>https://casvisor.org/zh/blog</link>
+        <description>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH bastion platform Blog</description>
+        <lastBuildDate>Sun, 20 Aug 2023 13:07:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://casvisor.org/zh/blog/welcome</link>
+            <guid>https://casvisor.org/zh/blog/welcome</guid>
+            <pubDate>Sun, 20 Aug 2023 13:07:30 GMT</pubDate>
+            <description><![CDATA[Welcome to Casvisor website!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to Casvisor website!</p>]]></content:encoded>
+            <category>casvisor</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasvisor_website=self.webpackChunkcasvisor_website||[]).push([[167],{7181:s=>{s.exports=JSON.parse('{"label":"casvisor","permalink":"/blog/tags/casvisor","allTagsPath":"/blog/tags","count":1}')}}]);

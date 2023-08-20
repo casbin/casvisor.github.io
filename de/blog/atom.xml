@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://casvisor.org/de/blog</id>
+    <title>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH bastion platform Blog</title>
+    <updated>2023-08-20T13:07:30.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://casvisor.org/de/blog"/>
+    <subtitle>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH bastion platform Blog</subtitle>
+    <icon>https://casvisor.org/de/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://casvisor.org/de/blog/welcome</id>
+        <link href="https://casvisor.org/de/blog/welcome"/>
+        <updated>2023-08-20T13:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Casvisor website!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Casvisor website!</p>]]></content>
+        <author>
+            <name>Casbin Team</name>
+            <uri>https://github.com/casbin</uri>
+        </author>
+        <category label="casvisor" term="casvisor"/>
+    </entry>
+</feed>
