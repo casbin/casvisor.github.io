@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasvisor_website=self.webpackChunkcasvisor_website||[]).push([[359],{3491:e=>{e.exports=JSON.parse('{"title":"Assets","slug":"/category/assets","permalink":"/ja/docs/category/assets","navigation":{"previous":{"title":"Overview","permalink":"/ja/docs/overview"},"next":{"title":"Overview","permalink":"/ja/docs/asset/overview"}}}')}}]);
