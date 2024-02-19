@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasvisor_website=self.webpackChunkcasvisor_website||[]).push([[678],{3804:e=>{e.exports=JSON.parse('{"title":"Assets","slug":"/category/assets","permalink":"/ko/docs/category/assets","navigation":{"previous":{"title":"Server Installation","permalink":"/ko/docs/installation"},"next":{"title":"Overview","permalink":"/ko/docs/asset/overview"}}}')}}]);
