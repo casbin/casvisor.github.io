@@ -4,7 +4,7 @@
         <title>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH and databases management bastion platform Blog</title>
         <link>https://casvisor.org/zh/blog</link>
         <description>Casvisor · An open-source security log auditing &amp; RDP, VNC, SSH and databases management bastion platform Blog</description>
-        <lastBuildDate>Tue, 26 Mar 2024 05:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 02:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://casvisor.org/zh/blog/welcome</link>
             <guid>https://casvisor.org/zh/blog/welcome</guid>
-            <pubDate>Tue, 26 Mar 2024 05:02:54 GMT</pubDate>
+            <pubDate>Mon, 08 Apr 2024 02:45:07 GMT</pubDate>
             <description><![CDATA[Welcome to Casvisor website!]]></description>
             <content:encoded><![CDATA[<p>Welcome to Casvisor website!</p>]]></content:encoded>
             <category>casvisor</category>
