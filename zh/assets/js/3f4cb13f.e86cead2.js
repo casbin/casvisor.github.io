@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasvisor_website=self.webpackChunkcasvisor_website||[]).push([[950],{2644:e=>{e.exports=JSON.parse('{"title":"Commands","slug":"/category/commands","permalink":"/zh/docs/category/commands","navigation":{"previous":{"title":"Intranet","permalink":"/zh/docs/asset/intranet"},"next":{"title":"Command","permalink":"/zh/docs/command/"}}}')}}]);
